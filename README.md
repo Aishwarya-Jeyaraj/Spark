@@ -2,7 +2,7 @@ The Sparks Foundation Internship Project
 
 Task1 - Basic Banking System:
 
-SPARK BANK - A simple dynamic website describing Basic Banking System with user creation and money transaction schema used to transfer money between multiple users (Project contains 10 dummy users). New users can also be created by providing a unique username and a valid email Id. 
+SPARK BANK - A simple dynamic website describing Basic Banking System with user creation and money transaction schema to transfer money between multiple users (Project contains 10 dummy users). New users can also be created by providing a unique username and a valid email Id. 
 
 Stack used - 
 
