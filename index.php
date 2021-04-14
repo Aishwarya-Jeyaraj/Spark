@@ -29,7 +29,7 @@
                   <div class="col-md act">
                     <img src="img/profilepic.png" class="img-fluid" height="50%" width="40%">
                     <br><br>
-                    <a href="signin.php"><button>Create a User</button></a>
+                    <a href="newuser.php"><button>Create a User</button></a>
                   </div>
                   <div class="col-md act">
                     <img src="img/transferphoto.png" class="img-fluid" height="50%" width="40%">
