@@ -56,7 +56,7 @@
     <h4>Balance:</h4>
     <input type="balance" name="balance" placeholder="Balance"/>
     <br><br>
-    <input type="submit" name="submit" value="SignIn" class="login-button"/>
+    <input type="submit" name="submit" value="Create" class="login-button"/>
     <input type="reset" name="reset" value="Reset" class="login-button"/>
 </form>  
     <br>
