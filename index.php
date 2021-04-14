@@ -27,7 +27,7 @@
             <br><br>
             <div class="row activity text-center">
                   <div class="col-md act">
-                    <img src="img/profilepic.png" class="img-fluid" height="50%" width="40%">>
+                    <img src="img/profilepic.png" class="img-fluid" height="50%" width="40%">
                     <br><br>
                     <a href="signin.php"><button>Create a User</button></a>
                   </div>
